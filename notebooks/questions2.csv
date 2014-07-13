@@ -1,0 +1,112 @@
+question,question_text,importance
+"i-know-this-language-well","I know this language well",1
+"i-enjoy-using-this-language","I enjoy using this language",1
+"i-regularly-use-this-language","I regularly use this language",1
+"i-find-it-easy-to-write-efficient-code-in-this-lan","I find it easy to write efficient code in this language",1
+"i-find-this-language-easy-to-prototype-in","I find this language easy to prototype in",1
+"when-i-write-code-in-this-language-i-can-be-very-s","When I write code in this language I can be very sure it is correct",1
+"i-rarely-have-difficulty-abstracting-patterns-i-fi","I rarely have difficulty abstracting patterns I find in my code",1
+"it-s-unusual-for-me-to-discover-unfamiliar-feature","It"s unusual for me to discover unfamiliar features",1
+"i-usually-use-this-language-on-solo-projects","I usually use this language on solo projects",-1
+"i-usually-use-this-language-on-projects-with-many-","I usually use this language on projects with many other members",1
+"i-would-use-this-language-for-a-web-project","I would use this language for a web project",1
+"i-would-use-this-language-for-a-desktop-gui-projec","I would use this language for a desktop GUI project",1
+"i-would-use-this-language-for-mobile-applications","I would use this language for mobile applications",1
+"i-would-use-this-language-for-casual-scripting","I would use this language for casual scripting",1
+"it-is-easy-to-tell-at-a-glance-what-code-in-this-l","It is easy to tell at a glance what code in this language does",1
+"i-find-code-written-in-this-language-very-elegant","I find code written in this language very elegant",1
+"code-written-in-this-language-tends-to-be-terse","Code written in this language tends to be terse",1
+"code-written-in-this-language-tends-to-be-verbose","Code written in this language tends to be verbose",-1
+"there-is-a-lot-of-accidental-complexity-when-writi","There is a lot of accidental complexity when writing code in this language",-1
+"this-language-allows-me-to-write-programs-where-i-","This language allows me to write programs where I know exactly what they are doing under the hood",1
+"this-is-a-high-level-language","This is a high level language",1
+"this-is-a-low-level-language","This is a low level language",-1
+"this-language-has-a-strong-static-type-system","This language has a strong static type system",1
+"this-language-is-very-flexible","This language is very flexible",1
+"this-language-has-a-very-rigid-idea-of-how-things-","This language has a very rigid idea of how things should be done",-1
+"this-language-has-a-niche-in-which-it-is-great","This language has a niche in which it is great",1
+"this-language-has-a-niche-outside-of-which-i-would","This language has a niche outside of which I would not use it",-1
+"i-would-use-this-language-to-write-a-command-line-","I would use this language to write a command-line app",1
+"this-language-is-good-for-scientific-computing","This language is good for scientific computing",1
+"this-language-is-expressive","This language is expressive",1
+"writing-code-in-this-language-is-a-lot-of-work","Writing code in this language is a lot of work",-1
+"i-can-imagine-using-this-language-in-my-day-job","I can imagine using this language in my day job",1
+"this-language-excels-at-symbolic-manipulation","This language excels at symbolic manipulation",1
+"this-language-excels-at-text-processing","This language excels at text processing",1
+"this-language-excels-at-concurrency","This language excels at concurrency",1
+"this-language-is-well-documented","This language is well documented",1
+"the-resources-for-learning-this-language-are-of-hi","The resources for learning this language are of high quality",1
+"this-language-has-a-good-community","This language has a good community",1
+"third-party-libraries-are-readily-available-well-d","Third-party libraries are readily available, well-documented, and of high quality",1
+"there-is-a-wide-variety-of-open-source-code-writte","There is a wide variety of open source code written in this language",1
+"when-i-run-into-problems-my-colleagues-can-provide","When I run into problems my colleagues can provide me with immediate help with this language",1
+"programs-written-in-this-language-will-usually-wor","Programs written in this language will usually work in future versions of the language",1
+"this-language-has-a-wide-variety-of-agreed-upon-co","This language has a wide variety of agreed-upon conventions, which are generally adhered to reasonably well, and which increase my productivity",1
+"code-written-in-this-language-tends-to-be-very-rel","Code written in this language tends to be very reliable",1
+"code-written-in-this-language-is-very-readable","Code written in this language is very readable",1
+"this-language-is-best-for-very-large-projects","This language is best for very large projects",0
+"this-language-is-best-for-very-small-projects","This language is best for very small projects",0
+"this-language-is-good-for-beginners","This language is good for beginners",1
+"this-language-is-unusually-bad-for-beginners","This language is unusually bad for beginners",-1
+"learning-this-language-improved-my-ability-as-a-pr","Learning this language improved my ability as a programmer",1
+"i-enjoy-playing-with-this-language-but-would-never","I enjoy playing with this language but would never use it for real code",-1
+"i-use-many-applications-written-in-this-language","I use many applications written in this language",1
+"this-language-has-a-very-dogmatic-community","This language has a very dogmatic community",-1
+"it-is-easy-to-debug-programs-written-in-this-langu","It is easy to debug programs written in this language when it goes wrong",1
+"there-are-many-good-tools-for-this-language","There are many good tools for this language",1
+"there-are-many-good-open-source-tools-for-this-lan","There are many good open-source tools for this language",1
+"there-are-many-good-commercial-tools-for-this-lang","There are many good commercial tools for this language",1
+"programs-written-in-this-language-tend-to-play-wel","Programs written in this language tend to play well with others",1
+"i-would-like-to-write-more-of-this-language-than-i","I would like to write more of this language than I currently do",1
+"i-would-use-this-language-for-writing-server-progr","I would use this language for writing server programs",1
+"this-language-is-good-for-distributed-computing","This language is good for distributed computing",1
+"programs-written-in-this-language-tend-to-be-effic","Programs written in this language tend to be efficient",1
+"i-know-many-other-people-who-use-this-language","I know many other people who use this language",1
+"i-often-write-things-in-this-language-with-the-int","I often write things in this language with the intent of rewriting them in something else later",0
+"this-language-is-good-for-numeric-computing","This language is good for numeric computing",1
+"this-language-is-suitable-for-real-time-applicatio","This language is suitable for real-time applications",1
+"i-am-sometimes-embarrassed-to-admit-to-my-peers-th","I am sometimes embarrassed to admit to my peers that I know this language",-1
+"it-is-too-easy-to-write-code-in-this-language-that","It is too easy to write code in this language that looks like it does one thing but actually does something else",-1
+"if-this-language-didn-t-exist-i-would-have-trouble","If this language didn't exist, I would have trouble finding a satisfactory replacement",1
+"this-language-is-frequently-used-for-applications-","This language is frequently used for applications it isn't suitable for",-1
+"this-language-has-well-organized-libraries-with-co","This language has well-organized libraries with consistent, carefully thought-out interfaces",1
+"i-can-imagine-this-will-be-a-popular-language-in-t","I can imagine this will be a popular language in twenty years time",1
+"the-thought-that-i-may-still-be-using-this-languag","The thought that I may still be using this language in twenty years time fills me with dread",-1
+"i-would-use-this-language-for-writing-programs-for","I would use this language for writing programs for an embedded hardware platform",0
+"i-would-use-this-language-as-a-scripting-language-","I would use this language as a scripting language embedded inside a larger application",1
+"this-language-has-unusual-features-that-i-often-mi","This language has unusual features that I often miss when using other languages",1
+"this-language-is-likely-to-have-a-strong-influence","This language is likely to have a strong influence on future languages",1
+"this-language-is-likely-to-be-a-passing-fad","This language is likely to be a passing fad",-1
+"i-would-list-this-language-on-my-resume","I would list this language on my resume",1
+"i-am-reluctant-to-admit-to-knowing-this-language","I am reluctant to admit to knowing this language",-1
+"developers-who-primarily-use-this-language-often-b","Developers who primarily use this language often burn out after a few years",-1
+"this-language-is-likely-to-be-around-for-a-very-lo","This language is likely to be around for a very long time",1
+"this-language-has-a-very-coherent-design","This language has a very coherent design",1
+"this-language-is-built-on-a-small-core-of-orthogon","This language is built on a small core of orthogonal features",1
+"this-language-is-minimal","This language is minimal",1
+"this-language-is-large","This language is large",-1
+"this-language-has-many-features-which-feel-tacked-","This language has many features which feel tacked on",-1
+"i-still-discover-new-features-of-this-language-on-","I still discover new features of this language on a fairly regular basis",1
+"i-use-this-language-out-of-choice","I use this language out of choice",1
+"this-language-makes-it-easy-to-shoot-yourself-in-t","This language makes it easy to shoot yourself in the foot",-1
+"this-language-has-a-high-quality-implementation","This language has a high quality implementation",1
+"i-learned-this-language-early-in-my-career-as-a-pr","I learned this language early in my career as a programmer",1
+"this-language-encourages-writing-code-that-is-easy","This language encourages writing code that is easy to maintain.",1
+"this-language-encourages-writing-reusable-code","This language encourages writing reusable code.",1
+"learning-this-language-significantly-changed-how-i","Learning this language significantly changed how I use other languages.",1
+"the-semantics-of-this-language-are-much-different-","The semantics of this language are much different than other languages I know.",-1
+"if-my-code-in-this-language-successfully-compiles-","If my code in this language successfully compiles, there is a good chance my code is correct.",1
+"this-language-has-a-good-library-distribution-mech","This language has a good library distribution mechanism.",1
+"libraries-in-this-language-tend-to-be-well-documen","Libraries in this language tend to be well documented.",1
+"code-written-in-this-language-will-usually-run-in-","Code written in this language will usually run in all the major implementations if it runs in one of them.",1
+"this-language-matches-it-s-problem-domain-particul","This language matches its problem domain particularly well.",1
+"this-language-is-easier-to-use-for-it-s-problem-do","This language is easier to use for its problem domain by removing unneeded expressiveness (such as not being Turing complete).",1
+"this-language-would-be-good-for-teaching-children-","This language would be good for teaching children to write software",0
+"this-language-is-well-suited-for-an-agile-developm","This language is well suited for an agile development approach using short iterations.",1
+"i-would-recommend-most-programmers-learn-this-lang","I would recommend most programmers learn this language, regardless of whether they have a specific need for it",1
+"this-is-a-mainstream-language","This is a mainstream language",1
+"this-language-has-an-annoying-syntax","This language has an annoying syntax",-1
+"i-often-feel-like-i-am-not-smart-enough-to-write-t","I often feel like I am not smart enough to write this language",-1
+"i-use-a-lot-of-code-written-in-this-language-which","I use a lot of code written in this language which I really don't want to have to make changes to",-1
+"i-often-get-angry-when-writing-code-in-this-langua","I often get angry when writing code in this language",-1
+"i-would-use-this-language-for-writing-embedded-pro","I would use this language for writing embedded programs",0
